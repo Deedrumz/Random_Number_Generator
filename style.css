@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+#rand{
+    text-align: center;
+    padding-top: 30px;
+    font-family: cursive;
+}
+#num{
+    text-align: center;
+    font-family: cursive;
+    color: coral blue red;
+}
+.btn{
+    padding-left: 650px;
+    
+}
+#btnn{
+    border-radius: 8px;
+    background-color: blueviolet;
+    height: 35px;
+    width: 250px;
+}
